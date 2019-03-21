@@ -1,2 +1,2 @@
-# github_snell
+# Coursera_Capstone
 My Github Repository
